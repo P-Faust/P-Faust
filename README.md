@@ -1,8 +1,10 @@
-### Hi there im Patrik Faust ✋
-## A passionate IT Technician from Germany wanting to learn to new things! 
+## Hi there im Patrik Faust ✋
+### A passionate IT-Technician from Germany wanting to learn to new things! 
 
-🧑‍💼 Im currently working on: Excel automation, Interface for WiFi-Card informations in C#
-🧠 I'm currently learning: Python, Godot, C#, Linux 
+ \
+💻 I'm currently working on: Excel automation, Interface for WiFi-Card informations in C#\
+🧠 I'm currently learning: Python, C#, Linux
+\
 <!--
 **P-Faust/P-Faust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
