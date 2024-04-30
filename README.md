@@ -1,5 +1,5 @@
 ![Header](./p-faust_header.png)
-## Hi there im Patrik Faust ✋
+## Hi there i'm Patrik Faust ✋
 ### A passionate IT-Technician from Germany wanting to learn new things! 
 
  \
