@@ -1,6 +1,6 @@
 ![Header](./p-faust_header.png)
 ## Hi there im Patrik Faust ✋
-### A passionate IT-Technician from Germany wanting to learn to new things! 
+### A passionate IT-Technician from Germany wanting to learn new things! 
 
  \
 💻 I'm currently working on: Excel automation, Interface for WiFi-Card informations in C#\
