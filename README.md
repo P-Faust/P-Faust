@@ -5,4 +5,3 @@ ___
 ___
 ### My Codewars Account
 <p align="center"><a href="https://www.codewars.com/users/Paddy_1337"><img alt="Image of my Codewars Banner" src="https://www.codewars.com/users/Paddy_1337/badges/large"></a></p>
-___
